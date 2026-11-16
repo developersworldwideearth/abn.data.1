@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>OneNote — Privacy Policy</title>
+<style>
+  :root { color-scheme: light; }
+  body {
+    margin: 0 auto; max-width: 44rem; padding: 3rem 1.25rem 5rem;
+    font: 16px/1.65 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    color: #111; background: #fff;
+  }
+  h1 { font-size: 1.9rem; line-height: 1.2; margin: 0 0 .25rem; }
+  h2 { font-size: 1.1rem; margin: 2.25rem 0 .5rem; }
+  .updated { color: #6b6b6b; margin: 0 0 2rem; font-size: .9rem; }
+  ul { padding-left: 1.1rem; }
+  li { margin: .35rem 0; }
+  code { font-size: .9em; background: #f4f4f4; padding: .1rem .3rem; border-radius: 3px; }
+  .box { border: 1px solid #e6e6e6; border-radius: 8px; padding: 1rem 1.15rem; margin: 1.5rem 0; }
+  footer { margin-top: 3rem; color: #6b6b6b; font-size: .85rem; }
+</style>
+</head>
+<body>
+  <h1>OneNote — Privacy Policy</h1>
+  <p class="updated">Last updated 16 November 2026</p>
+
+  <div class="box">
+    <strong>The short version:</strong> OneNote keeps your notes on your own device.
+    There is no account, no server, no analytics and no advertising.
+  </div>
+
+  <h2>What the app stores</h2>
+  <ul>
+    <li>the notes you write, their colour and the section they belong to;</li>
+    <li>the sections you create and their order;</li>
+    <li>freehand marks you draw on a note;</li>
+    <li>comments captured during a recording take, with their timestamps;</li>
+    <li>your preferences — window position and size, paper opacity, text size, the pin shortcut, and whether the pen and auto-scroll are on.</li>
+  </ul>
+  <p>All of it lives in a single SQLite database inside the app's own storage:</p>
+  <ul>
+    <li>macOS: <code>~/Library/Containers/asia.abn.onenote/Data/Library/Application Support/asia.abn.onenote/onenote.db</code></li>
+    <li>iPhone and iPad: the app's private container, visible only to the app.</li>
+  </ul>
+
+  <h2>What the app does not do</h2>
+  <ul>
+    <li>It does not create an account or ask for a name, email address or phone number.</li>
+    <li>It does not send your notes, or anything about them, anywhere. The app makes no network requests.</li>
+    <li>It contains no analytics, crash reporting, advertising SDKs or third-party trackers.</li>
+    <li>It does not record your screen. Recording is done by whatever recorder you already use; OneNote only draws a window on top of it.</li>
+  </ul>
+
+  <h2>Permissions on macOS</h2>
+  <p>
+    The keyboard shortcut that pins the note works while another app is in front, which
+    needs the Accessibility permission in System Settings → Privacy &amp; Security.
+    The app asks once, explains why, and works without it through the menu-bar icon.
+    OneNote never requests Screen Recording, Microphone, Camera or Full Disk Access.
+  </p>
+
+  <h2>Exports you ask for</h2>
+  <p>
+    Backups (JSON) and shot lists (Markdown) are written to your Downloads folder only
+    when you choose Export. What you do with those files afterwards is up to you.
+  </p>
+
+  <h2>Children</h2>
+  <p>The app has no accounts and no user-generated content sharing, so it collects nothing from anyone, including children.</p>
+
+  <h2>Your control over the data</h2>
+  <ul>
+    <li>Delete a note, a section or a take inside the app and it is removed from the database.</li>
+    <li>Export a JSON backup at any time from Preferences.</li>
+    <li>Deleting the app removes its database with it.</li>
+  </ul>
+
+  <h2>Changes</h2>
+  <p>
+    If a future version ever needs to change any of this — for example an optional sync
+    feature — the policy will be updated here before that version ships, and the app
+    will ask before sending anything off the device.
+  </p>
+
+  <h2>Contact</h2>
+  <p>
+    ABN Asia Software — <a href="mailto:contact@abnasia.org">contact@abnasia.org</a><br>
+    <a href="https://github.com/stevennt/abn.platform.work.postit">github.com/stevennt/abn.platform.work.postit</a>
+  </p>
+
+  <footer>OneNote is published by ABN Asia Software. This page is the privacy policy referenced by the App Store and Google Play listings.</footer>
+</body>
+</html>
