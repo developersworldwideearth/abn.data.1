@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "generated": "2026-11-19",
+  "note": "Every file here is served from abn.data.1 through jsDelivr. A new sound is an upload plus a row in this file; the app needs no release.",
+  "sounds": [
+    {
+      "id": "alpine-storm",
+      "file": "alpine-storm.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/alpine-storm.m4a",
+      "bytes": 259533,
+      "sha256": "7d3421987c87d2d18eaf65d5baffc089807447ad251d2cf535034cc4cb3fddd9"
+    },
+    {
+      "id": "cargo-ship-engine",
+      "file": "cargo-ship-engine.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/cargo-ship-engine.m4a",
+      "bytes": 271880,
+      "sha256": "911c55e430b47fedef1e167861735cd95e02f05ea76384d8f880e4de3bdde1c0"
+    },
+    {
+      "id": "cave-drip",
+      "file": "cave-drip.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/cave-drip.m4a",
+      "bytes": 243739,
+      "sha256": "2c6c8c7c9907b63a7dc34b728c92318d24010ffeb5ab98669ab81ee6e99d11d3"
+    },
+    {
+      "id": "cicada-dusk",
+      "file": "cicada-dusk.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/cicada-dusk.m4a",
+      "bytes": 248113,
+      "sha256": "2bb2bf2d2b6e83f344cd51dc84c8630a871389dec0f4a9054509fccb0f0c338a"
+    },
+    {
+      "id": "desert-wind",
+      "file": "desert-wind.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/desert-wind.m4a",
+      "bytes": 99387,
+      "sha256": "9b286b94e99de1257f031b715bb42b7d6787631f88aafd4c1fe12b0b14b6ce9e"
+    },
+    {
+      "id": "engine-v12-idle",
+      "file": "engine-v12-idle.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/engine-v12-idle.m4a",
+      "bytes": 99352,
+      "sha256": "8fd0572896a5b8ece419d566518e7186cd8a591371f25e8608323956b5f91242"
+    },
+    {
+      "id": "flat-six-cold-start",
+      "file": "flat-six-cold-start.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/flat-six-cold-start.m4a",
+      "bytes": 210301,
+      "sha256": "2932147aae92632ab510cc6baf9437bc4d6d07dd5a596a44e53d379cc54768bd"
+    },
+    {
+      "id": "forest-canopy",
+      "file": "forest-canopy.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/forest-canopy.m4a",
+      "bytes": 99389,
+      "sha256": "6a5b642c231a2ef89f54bb8655036a20245c7ee28d8d58b20e7f5edd7757e3ba"
+    },
+    {
+      "id": "glacier-calving",
+      "file": "glacier-calving.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/glacier-calving.m4a",
+      "bytes": 260021,
+      "sha256": "cc78bf5d9678994109cbfd478103f16955249639015f3f7755e4c2a2ba2aae64"
+    },
+    {
+      "id": "humpback-song",
+      "file": "humpback-song.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/humpback-song.m4a",
+      "bytes": 320910,
+      "sha256": "32f5337532bae718e40c466d91f4084ed14c98db60e1b4d76e36706b5132b01f"
+    },
+    {
+      "id": "lathe-mill",
+      "file": "lathe-mill.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/lathe-mill.m4a",
+      "bytes": 226600,
+      "sha256": "aad63340888c1a7ee1a3740695a99520e89392bd191afa2c248025c39c39ef5b"
+    },
+    {
+      "id": "lemans-v8-warmup",
+      "file": "lemans-v8-warmup.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/lemans-v8-warmup.m4a",
+      "bytes": 243153,
+      "sha256": "f6f992030e298615c2626d12a350a9aa48dc86f8f49e46d3c88c30949f8e155c"
+    },
+    {
+      "id": "mustang-854-load",
+      "file": "mustang-854-load.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/mustang-854-load.m4a",
+      "bytes": 472945,
+      "sha256": "01561fec1f7a25ac7b0239625857eb87997d9062c994232ecb488ed3bce313e1"
+    },
+    {
+      "id": "rotary-idle",
+      "file": "rotary-idle.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/rotary-idle.m4a",
+      "bytes": 193863,
+      "sha256": "2f447c808a28738508459c60b38392912ea51929d45075000133fb408444b98f"
+    },
+    {
+      "id": "smallblock-v8-load",
+      "file": "smallblock-v8-load.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/smallblock-v8-load.m4a",
+      "bytes": 243395,
+      "sha256": "6daf229af208930daded2a5d618ae9ad505d42ba1aed76d5c56be763cebf2763"
+    },
+    {
+      "id": "steam-locomotive",
+      "file": "steam-locomotive.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/steam-locomotive.m4a",
+      "bytes": 243185,
+      "sha256": "33fed9648480394fc5929d8f81568799aba7d752ebaa9c7a3719122b656acfdf"
+    },
+    {
+      "id": "turboprop-cabin",
+      "file": "turboprop-cabin.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/turboprop-cabin.m4a",
+      "bytes": 242910,
+      "sha256": "f63a9431ef8268abdc8cb211a1e003df99e4703d520028a0c14d0f4d2be5f3f6"
+    },
+    {
+      "id": "two-stroke-screamer",
+      "file": "two-stroke-screamer.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/two-stroke-screamer.m4a",
+      "bytes": 210302,
+      "sha256": "88e802f0b0c7b150af847043b005d2b6d2cc45cedac5f4b7e3441e8a8f7a914b"
+    },
+    {
+      "id": "v8-throttle-blips",
+      "file": "v8-throttle-blips.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/v8-throttle-blips.m4a",
+      "bytes": 194084,
+      "sha256": "4b3607ec2cb2bfa4d70d083056322af3a0369e4baf64d1e91cf3c4a0620c7b78"
+    }
+  ]
+}
