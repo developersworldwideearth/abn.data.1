@@ -1,8 +1,29 @@
 {
   "version": 1,
-  "generated": "2026-11-19",
-  "note": "Every file here is served from abn.data.1 through jsDelivr. A new sound is an upload plus a row in this file; the app needs no release.",
+  "generated": "auto",
+  "note": "Served from abn.data.1 through jsDelivr. A new sound is an upload plus a row here; the app needs no release.",
   "sounds": [
+    {
+      "id": "desert-wind",
+      "file": "desert-wind.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/desert-wind.m4a",
+      "bytes": 95288,
+      "sha256": "0672a2e668014cd62d433598ca8ae288fe155df9ad7ce0c458fd68bd9fc0c5dd"
+    },
+    {
+      "id": "engine-v12-idle",
+      "file": "engine-v12-idle.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/engine-v12-idle.m4a",
+      "bytes": 95368,
+      "sha256": "fc6a6a8c742ba0948f9fd592f7f4652f8d2f4c8e20ea8f677549e51fc8e518df"
+    },
+    {
+      "id": "forest-canopy",
+      "file": "forest-canopy.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/forest-canopy.m4a",
+      "bytes": 95359,
+      "sha256": "e59817cc66530c263349748f859f68406883d89c22d0311e50262e3785fc758c"
+    },
     {
       "id": "alpine-storm",
       "file": "alpine-storm.m4a",
@@ -32,32 +53,11 @@
       "sha256": "2bb2bf2d2b6e83f344cd51dc84c8630a871389dec0f4a9054509fccb0f0c338a"
     },
     {
-      "id": "desert-wind",
-      "file": "desert-wind.m4a",
-      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/desert-wind.m4a",
-      "bytes": 99387,
-      "sha256": "9b286b94e99de1257f031b715bb42b7d6787631f88aafd4c1fe12b0b14b6ce9e"
-    },
-    {
-      "id": "engine-v12-idle",
-      "file": "engine-v12-idle.m4a",
-      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/engine-v12-idle.m4a",
-      "bytes": 99352,
-      "sha256": "8fd0572896a5b8ece419d566518e7186cd8a591371f25e8608323956b5f91242"
-    },
-    {
       "id": "flat-six-cold-start",
       "file": "flat-six-cold-start.m4a",
       "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/flat-six-cold-start.m4a",
       "bytes": 210301,
       "sha256": "2932147aae92632ab510cc6baf9437bc4d6d07dd5a596a44e53d379cc54768bd"
-    },
-    {
-      "id": "forest-canopy",
-      "file": "forest-canopy.m4a",
-      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/forest-canopy.m4a",
-      "bytes": 99389,
-      "sha256": "6a5b642c231a2ef89f54bb8655036a20245c7ee28d8d58b20e7f5edd7757e3ba"
     },
     {
       "id": "glacier-calving",
@@ -93,6 +93,55 @@
       "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/mustang-854-load.m4a",
       "bytes": 472945,
       "sha256": "01561fec1f7a25ac7b0239625857eb87997d9062c994232ecb488ed3bce313e1"
+    },
+    {
+      "id": "noise-brown",
+      "file": "noise-brown.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/noise-brown.m4a",
+      "bytes": 372506,
+      "sha256": "9c43935d1ada0b7d64cbfa0dcdf5b01d9b6c0e70c50424e3bd77cd8302584498"
+    },
+    {
+      "id": "noise-deep-brown",
+      "file": "noise-deep-brown.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/noise-deep-brown.m4a",
+      "bytes": 376727,
+      "sha256": "a6e49e8323d89027da2fb5edd5035d7b158d6f4f6dcb6066438cb41b4155bdca"
+    },
+    {
+      "id": "noise-green",
+      "file": "noise-green.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/noise-green.m4a",
+      "bytes": 370213,
+      "sha256": "3acf890b2c6b6821dfce359ab7c9e2cd418243ac8ad1f33179be873d5896f60c"
+    },
+    {
+      "id": "noise-pink",
+      "file": "noise-pink.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/noise-pink.m4a",
+      "bytes": 370122,
+      "sha256": "a11166e196868492ad8f6f534a5d2e6e2737357edb2d00d15594d1ef57418672"
+    },
+    {
+      "id": "noise-white",
+      "file": "noise-white.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/noise-white.m4a",
+      "bytes": 370210,
+      "sha256": "1d9cc1ba6998ab70135a1dcab2899d266eeef914ece1516fa9e3f54fbad0547d"
+    },
+    {
+      "id": "rain-glass",
+      "file": "rain-glass.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/rain-glass.m4a",
+      "bytes": 366484,
+      "sha256": "7d2b773622dacca2fb84fa3764288e1281540c345aadd49686936e6fdbfd3bd6"
+    },
+    {
+      "id": "rain-tin",
+      "file": "rain-tin.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/rain-tin.m4a",
+      "bytes": 366151,
+      "sha256": "4edadcb2d9c7afe00c81b57e3d4d9474b7989a0bfbdf19982d5ba3f141a7ceac"
     },
     {
       "id": "rotary-idle",
