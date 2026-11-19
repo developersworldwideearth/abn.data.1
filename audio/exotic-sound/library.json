@@ -96,8 +96,8 @@
     },
     {
       "id": "noise-brown",
-      "file": "noise-brown.m4a",
-      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/noise-brown.m4a",
+      "file": "brown-noise.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/brown-noise.m4a",
       "bytes": 372506,
       "sha256": "9c43935d1ada0b7d64cbfa0dcdf5b01d9b6c0e70c50424e3bd77cd8302584498"
     },
