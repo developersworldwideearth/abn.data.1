@@ -74,6 +74,78 @@
       "sha256": "cc78bf5d9678994109cbfd478103f16955249639015f3f7755e4c2a2ba2aae64"
     },
     {
+      "id": "helicopter-10000",
+      "file": "helicopter-10000.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/helicopter-10000.m4a",
+      "bytes": 50037,
+      "sha256": "0b3b2113119545f1c8914c11e8cdf80934e35fd30ee356fc1a830d30b84d7d44",
+      "machine": "helicopter",
+      "rpm": 10000
+    },
+    {
+      "id": "helicopter-12000",
+      "file": "helicopter-12000.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/helicopter-12000.m4a",
+      "bytes": 49983,
+      "sha256": "a385177e7c8e2d8dc805072fd38e3ac3329cad731024b97d6f42d29edd3c3739",
+      "machine": "helicopter",
+      "rpm": 12000
+    },
+    {
+      "id": "helicopter-14000",
+      "file": "helicopter-14000.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/helicopter-14000.m4a",
+      "bytes": 49998,
+      "sha256": "4c17b3ae6f098affd0f7a0c56605a680f6ecdfe0411d0b3ce2ac8bd4693c3ca9",
+      "machine": "helicopter",
+      "rpm": 14000
+    },
+    {
+      "id": "helicopter-16000",
+      "file": "helicopter-16000.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/helicopter-16000.m4a",
+      "bytes": 50220,
+      "sha256": "a6fee435730aa730bac5327a088d58b457ae19d6fb4410da27524a4b32e6a9ad",
+      "machine": "helicopter",
+      "rpm": 16000
+    },
+    {
+      "id": "helicopter-18000",
+      "file": "helicopter-18000.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/helicopter-18000.m4a",
+      "bytes": 49924,
+      "sha256": "eedda485679080fd4b880422b527d346c1b6746a0236dae8e564d3dbb6b90b5e",
+      "machine": "helicopter",
+      "rpm": 18000
+    },
+    {
+      "id": "helicopter-20000",
+      "file": "helicopter-20000.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/helicopter-20000.m4a",
+      "bytes": 50141,
+      "sha256": "94d0a6352d5839e4d63c22b3c963d67ac58505799f33bb0c62c38077e490f03d",
+      "machine": "helicopter",
+      "rpm": 20000
+    },
+    {
+      "id": "helicopter-6000",
+      "file": "helicopter-6000.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/helicopter-6000.m4a",
+      "bytes": 49851,
+      "sha256": "bd51b0dfb38f0b8bbe349a8b7906bbfa54761ee3e679fdfff159e03b03eb8d30",
+      "machine": "helicopter",
+      "rpm": 6000
+    },
+    {
+      "id": "helicopter-8000",
+      "file": "helicopter-8000.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/helicopter-8000.m4a",
+      "bytes": 50043,
+      "sha256": "79fcba86aabcbdcfadfd0adbdd5e85694051ef61eaa3b42f1f512450ad7105aa",
+      "machine": "helicopter",
+      "rpm": 8000
+    },
+    {
       "id": "howler-dawn",
       "file": "howler-dawn.m4a",
       "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/howler-dawn.m4a",
@@ -86,6 +158,78 @@
       "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/humpback-song.m4a",
       "bytes": 320910,
       "sha256": "32f5337532bae718e40c466d91f4084ed14c98db60e1b4d76e36706b5132b01f"
+    },
+    {
+      "id": "jet-11500",
+      "file": "jet-11500.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/jet-11500.m4a",
+      "bytes": 50041,
+      "sha256": "f0804abf0f6b0a9824a7775803c7654c569116d8591fea49be5a6d74d80515db",
+      "machine": "jet",
+      "rpm": 11500
+    },
+    {
+      "id": "jet-14500",
+      "file": "jet-14500.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/jet-14500.m4a",
+      "bytes": 50070,
+      "sha256": "a97f2837843ee7a71ba0210838e095729867b9edf91f2f79763a3a71d367f703",
+      "machine": "jet",
+      "rpm": 14500
+    },
+    {
+      "id": "jet-17000",
+      "file": "jet-17000.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/jet-17000.m4a",
+      "bytes": 50023,
+      "sha256": "fee5ea1bf6d4995b24f2fa0019cf3f2e1e201b33a5b129fd6a191c5e5e7f5f16",
+      "machine": "jet",
+      "rpm": 17000
+    },
+    {
+      "id": "jet-3000",
+      "file": "jet-3000.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/jet-3000.m4a",
+      "bytes": 50013,
+      "sha256": "4cd4274308c098a7c15174c2eab8e659b2a28db6385c37b2badeb8ad3a3ff210",
+      "machine": "jet",
+      "rpm": 3000
+    },
+    {
+      "id": "jet-4000",
+      "file": "jet-4000.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/jet-4000.m4a",
+      "bytes": 49930,
+      "sha256": "3a57b573d66b9eac0d0f75ab00b240f3568fefd49452a83df2d7ae8fe4b42741",
+      "machine": "jet",
+      "rpm": 4000
+    },
+    {
+      "id": "jet-5300",
+      "file": "jet-5300.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/jet-5300.m4a",
+      "bytes": 50199,
+      "sha256": "036b681b6081071bf7c988f9da184cd0f045bf8123e7a3142cce442745802558",
+      "machine": "jet",
+      "rpm": 5300
+    },
+    {
+      "id": "jet-7000",
+      "file": "jet-7000.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/jet-7000.m4a",
+      "bytes": 49952,
+      "sha256": "f8e468db3b3f7144b151d2b3375450cccc5a16e3077f149d84445e375ad6771e",
+      "machine": "jet",
+      "rpm": 7000
+    },
+    {
+      "id": "jet-9000",
+      "file": "jet-9000.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/jet-9000.m4a",
+      "bytes": 49867,
+      "sha256": "a3b83af895d13e1346e36464f71557e9f69eaa297087233bfd1bbc14ecaadce8",
+      "machine": "jet",
+      "rpm": 9000
     },
     {
       "id": "kakapo-boom",
@@ -107,6 +251,78 @@
       "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/lemans-v8-warmup.m4a",
       "bytes": 243153,
       "sha256": "f6f992030e298615c2626d12a350a9aa48dc86f8f49e46d3c88c30949f8e155c"
+    },
+    {
+      "id": "motorbike-1200",
+      "file": "motorbike-1200.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/motorbike-1200.m4a",
+      "bytes": 50327,
+      "sha256": "fa5f2495a2cd92c0b2e50bfcf33ade9237bd0880f6efff36e0fc81a533e18e13",
+      "machine": "motorbike",
+      "rpm": 1200
+    },
+    {
+      "id": "motorbike-1600",
+      "file": "motorbike-1600.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/motorbike-1600.m4a",
+      "bytes": 50317,
+      "sha256": "55c6709044a24840952c48fd36a6b594e1bc77f0062af7e36fd8b88cda4a614c",
+      "machine": "motorbike",
+      "rpm": 1600
+    },
+    {
+      "id": "motorbike-2100",
+      "file": "motorbike-2100.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/motorbike-2100.m4a",
+      "bytes": 50407,
+      "sha256": "901d1d4035c5cdbe2dd50848ccde33861e764115fe34703263c80c15c8ca7787",
+      "machine": "motorbike",
+      "rpm": 2100
+    },
+    {
+      "id": "motorbike-2800",
+      "file": "motorbike-2800.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/motorbike-2800.m4a",
+      "bytes": 50402,
+      "sha256": "bd2ffe69a62fe936e76d95771db92c77e8484b8247b105b1184e3d4189a7a505",
+      "machine": "motorbike",
+      "rpm": 2800
+    },
+    {
+      "id": "motorbike-3700",
+      "file": "motorbike-3700.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/motorbike-3700.m4a",
+      "bytes": 50241,
+      "sha256": "a424f17abafdeb77ed41756aa4ee035094c65adbd470312101e07fd06520f5ff",
+      "machine": "motorbike",
+      "rpm": 3700
+    },
+    {
+      "id": "motorbike-4900",
+      "file": "motorbike-4900.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/motorbike-4900.m4a",
+      "bytes": 50448,
+      "sha256": "1a06ea682bc93dd4d2292ef2c3e14b524f929772a91d2981bf65a0d5267ca6a4",
+      "machine": "motorbike",
+      "rpm": 4900
+    },
+    {
+      "id": "motorbike-6500",
+      "file": "motorbike-6500.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/motorbike-6500.m4a",
+      "bytes": 50267,
+      "sha256": "bd20e2bb9acc03645d316a01c71e851b7aecc466b7350640b84a75faf0ec1cf6",
+      "machine": "motorbike",
+      "rpm": 6500
+    },
+    {
+      "id": "motorbike-8200",
+      "file": "motorbike-8200.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/motorbike-8200.m4a",
+      "bytes": 50353,
+      "sha256": "d589d2fd90b9e162d399255aec78ef0e50b45e2ffb862d59dc8e54b5840a99ab",
+      "machine": "motorbike",
+      "rpm": 8200
     },
     {
       "id": "mustang-854-load",
@@ -151,6 +367,78 @@
       "sha256": "1d9cc1ba6998ab70135a1dcab2899d266eeef914ece1516fa9e3f54fbad0547d"
     },
     {
+      "id": "race-1200",
+      "file": "race-1200.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/race-1200.m4a",
+      "bytes": 50436,
+      "sha256": "535953fa9abd28eb2201f7b995eb19acbd9de8afdfde54eb7292206409938f09",
+      "machine": "race",
+      "rpm": 1200
+    },
+    {
+      "id": "race-1600",
+      "file": "race-1600.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/race-1600.m4a",
+      "bytes": 50324,
+      "sha256": "03ce78ce60f898ab5397a537b65813cef0d6b4364a6b8edc251a7214b5d566db",
+      "machine": "race",
+      "rpm": 1600
+    },
+    {
+      "id": "race-2200",
+      "file": "race-2200.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/race-2200.m4a",
+      "bytes": 50425,
+      "sha256": "19f77438b03541eb182856048514e6b5365a4e91e35498a58a18571ce1e6187f",
+      "machine": "race",
+      "rpm": 2200
+    },
+    {
+      "id": "race-2900",
+      "file": "race-2900.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/race-2900.m4a",
+      "bytes": 50231,
+      "sha256": "41e6877418cfccd2d04bf5b82f48e9b3d40ea6311a794b3a7b15f9b80676c628",
+      "machine": "race",
+      "rpm": 2900
+    },
+    {
+      "id": "race-3800",
+      "file": "race-3800.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/race-3800.m4a",
+      "bytes": 50234,
+      "sha256": "3f574c309d73a618ef810045b75f90a9b96ff5bee9bddc6920b569aec66e060e",
+      "machine": "race",
+      "rpm": 3800
+    },
+    {
+      "id": "race-4900",
+      "file": "race-4900.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/race-4900.m4a",
+      "bytes": 50411,
+      "sha256": "9577842df55e9ca0fd91488316885fbaad506af3ed1c072b4e8fdd2bcfc9e144",
+      "machine": "race",
+      "rpm": 4900
+    },
+    {
+      "id": "race-6400",
+      "file": "race-6400.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/race-6400.m4a",
+      "bytes": 50366,
+      "sha256": "cbc89d8558a4cf261adde912d0444facdc19cc3983a277b8b325cb51ce6f1764",
+      "machine": "race",
+      "rpm": 6400
+    },
+    {
+      "id": "race-900",
+      "file": "race-900.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/race-900.m4a",
+      "bytes": 50427,
+      "sha256": "0cb80fb169d2faa69d04bcb6383fc64ea002635b26a909d8dc76ad3b1005a9c0",
+      "machine": "race",
+      "rpm": 900
+    },
+    {
       "id": "rain-glass",
       "file": "rain-glass.m4a",
       "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/rain-glass.m4a",
@@ -184,6 +472,78 @@
       "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/steam-locomotive.m4a",
       "bytes": 243185,
       "sha256": "33fed9648480394fc5929d8f81568799aba7d752ebaa9c7a3719122b656acfdf"
+    },
+    {
+      "id": "truck-1200",
+      "file": "truck-1200.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/truck-1200.m4a",
+      "bytes": 50385,
+      "sha256": "9b17071e35c2c5afbaa663f5c31109eb355c9b19e9f8d643a35fb1be652a83c6",
+      "machine": "truck",
+      "rpm": 1200
+    },
+    {
+      "id": "truck-1500",
+      "file": "truck-1500.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/truck-1500.m4a",
+      "bytes": 50265,
+      "sha256": "5f317fffd4375655a6b29e0e32f5b2b7074be4e0bcc5cfda1aa18a908ccc2667",
+      "machine": "truck",
+      "rpm": 1500
+    },
+    {
+      "id": "truck-1800",
+      "file": "truck-1800.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/truck-1800.m4a",
+      "bytes": 50315,
+      "sha256": "9b046cde921aa15b841886cd397a2f3a146c777f7d1f93e9294c50ae9da4d93c",
+      "machine": "truck",
+      "rpm": 1800
+    },
+    {
+      "id": "truck-2100",
+      "file": "truck-2100.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/truck-2100.m4a",
+      "bytes": 50265,
+      "sha256": "1693b9d1424e05f97e71fe8ecef10a4f2453dc42a369d2b3daba1bf8e0de3eb3",
+      "machine": "truck",
+      "rpm": 2100
+    },
+    {
+      "id": "truck-2500",
+      "file": "truck-2500.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/truck-2500.m4a",
+      "bytes": 50267,
+      "sha256": "ca4d5bd20cf3207030d24a41f56187f465072c130becd4a6c20172aabb33fa6f",
+      "machine": "truck",
+      "rpm": 2500
+    },
+    {
+      "id": "truck-2900",
+      "file": "truck-2900.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/truck-2900.m4a",
+      "bytes": 50196,
+      "sha256": "837b5e89eeb76b666159bc76634c9b56208a5071263b82b65680ad5864c96f98",
+      "machine": "truck",
+      "rpm": 2900
+    },
+    {
+      "id": "truck-600",
+      "file": "truck-600.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/truck-600.m4a",
+      "bytes": 50364,
+      "sha256": "3defb124f36f352c726358f58ac359de0a6e0028d0a59d38199c25bcd6e064a0",
+      "machine": "truck",
+      "rpm": 600
+    },
+    {
+      "id": "truck-900",
+      "file": "truck-900.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/truck-900.m4a",
+      "bytes": 50210,
+      "sha256": "49e2b45c38e0c02086757fb07608dd6094f0df4af844a0d7bcc531dff787c1b3",
+      "machine": "truck",
+      "rpm": 900
     },
     {
       "id": "turboprop-cabin",
