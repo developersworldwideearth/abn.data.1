@@ -39,6 +39,13 @@
       "sha256": "f2e83f7b4b22cbbe61362629e2dc7273b098e35842a3882ecf912da494255271"
     },
     {
+      "id": "bus-idle",
+      "file": "bus-idle.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/bus-idle.m4a",
+      "bytes": 325383,
+      "sha256": "a270f9dffd027368902c32ac0f2b828e00ca712920c9f1ac32ebed7176c7e91c"
+    },
+    {
       "id": "cargo-ship-engine",
       "file": "cargo-ship-engine.m4a",
       "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/cargo-ship-engine.m4a",
@@ -58,6 +65,13 @@
       "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/cicada-dusk.m4a",
       "bytes": 248113,
       "sha256": "2bb2bf2d2b6e83f344cd51dc84c8630a871389dec0f4a9054509fccb0f0c338a"
+    },
+    {
+      "id": "dusk-tree-frogs",
+      "file": "dusk-tree-frogs.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/dusk-tree-frogs.m4a",
+      "bytes": 243504,
+      "sha256": "299460a154d9580c96272cff85c3f75f2fcebd855b0296a8e6b551f927f1a3f7"
     },
     {
       "id": "flat-six-cold-start",
@@ -251,6 +265,20 @@
       "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/lemans-v8-warmup.m4a",
       "bytes": 243153,
       "sha256": "f6f992030e298615c2626d12a350a9aa48dc86f8f49e46d3c88c30949f8e155c"
+    },
+    {
+      "id": "market-murmur",
+      "file": "market-murmur.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/market-murmur.m4a",
+      "bytes": 325138,
+      "sha256": "2cd8627faaa4386a7f7b0d57d3ed857f4e9282b69445b170590395b38c9ed556"
+    },
+    {
+      "id": "monsoon-awning",
+      "file": "monsoon-awning.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/monsoon-awning.m4a",
+      "bytes": 325170,
+      "sha256": "5ee117e3c9654d44af8922f1af129ec3e8569cb55da0001b5fa2456c09004634"
     },
     {
       "id": "motorbike-1200",
@@ -460,6 +488,13 @@
       "sha256": "2f447c808a28738508459c60b38392912ea51929d45075000133fb408444b98f"
     },
     {
+      "id": "saigon-traffic",
+      "file": "saigon-traffic.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/saigon-traffic.m4a",
+      "bytes": 325004,
+      "sha256": "06c5af9452a8e3bfeddb34bb89b5d866304f014a6fe55d6d534aac5dbe1dcd25"
+    },
+    {
       "id": "smallblock-v8-load",
       "file": "smallblock-v8-load.m4a",
       "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/smallblock-v8-load.m4a",
@@ -472,6 +507,13 @@
       "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/steam-locomotive.m4a",
       "bytes": 243185,
       "sha256": "33fed9648480394fc5929d8f81568799aba7d752ebaa9c7a3719122b656acfdf"
+    },
+    {
+      "id": "street-two-stroke",
+      "file": "street-two-stroke.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/street-two-stroke.m4a",
+      "bytes": 243316,
+      "sha256": "145ec8ffea1b9016899e1ebd757fd3023ec44d1f9744a884b9a6ca048f433f5c"
     },
     {
       "id": "truck-1200",
@@ -565,6 +607,13 @@
       "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/v8-throttle-blips.m4a",
       "bytes": 194084,
       "sha256": "4b3607ec2cb2bfa4d70d083056322af3a0369e4baf64d1e91cf3c4a0620c7b78"
+    },
+    {
+      "id": "vendor-cart",
+      "file": "vendor-cart.m4a",
+      "url": "https://cdn.jsdelivr.net/gh/developersworldwideearth/abn.data.1@main/audio/exotic-sound/vendor-cart.m4a",
+      "bytes": 325261,
+      "sha256": "5d6494b6bf17eace4f3756a6b3c456df1a5d3a6191b0b35cfc5c19b20f5f2a4d"
     }
   ]
 }
